@@ -19,7 +19,7 @@ if (!isset($pageTitle)) {
     <title><?php echo htmlspecialchars($pageTitle); ?></title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+    <link rel="icon" type="image/x-icon" href="https://owutechconsults.com.ng/assets/img/bg/logo.jpg">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
