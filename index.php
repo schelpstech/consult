@@ -156,17 +156,17 @@ include  "./inc/header.php";
                         <div class="about-img">
                             <div class="row g-4">
                                 <div class="col-md-6">
-                                    <img class="img-1" src="assets/img/bg/learning.jpg" alt="Owutech Consult">
+                                    <img class="img-1" src="assets/img/bg/learning.jpg" alt="Learning with Owutech Consults">
                                     <div class="about-experience mt-4">
                                         <div class="about-experience-icon">
                                             <img src="assets/img/icon/exchange-idea.svg" alt="">
                                         </div>
-                                        <b class="text-start">Over 10 Years of <br> Educational Excellence</b>
+                                        <b class="text-start">Empowering Learning <br> Through Technology</b>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <img class="img-2" src="assets/img/bg/adv.jpg" alt="Learning at Owutech">
-                                    <img class="img-3 mt-4" src="assets/img/bg/thumb-up.jpg" alt="Innovation">
+                                    <img class="img-2" src="assets/img/bg/adv.jpg" alt="e-Learning Innovation">
+                                    <img class="img-3 mt-4" src="assets/img/bg/thumb-up.jpg" alt="Accredited Learning">
                                 </div>
                             </div>
                         </div>
@@ -178,18 +178,17 @@ include  "./inc/header.php";
                         <div class="site-heading mb-3">
                             <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> About Us</span>
                             <h2 class="site-title">
-                                Owutech Consult – <span>Empowering Education</span> Through Innovation
+                                Owutech Consults – <span>Connecting Learners</span> to Quality Education
                             </h2>
                         </div>
                         <p class="about-text">
-                            Owutech Consult is a leading educational consultancy and academic support organization
-                            dedicated to helping students, institutions, and professionals achieve their learning
-                            and career goals. We provide expert guidance, training, and advisory services across
-                            various educational levels and disciplines.
+                            <strong>Owutech Consults</strong> is a modern <strong>e-learning portal</strong> designed to make education
+                            accessible, flexible, and affordable for everyone. We connect learners to accredited partner institutions
+                            offering <strong>Short Certificate Courses</strong>, <strong>National Diploma (ND)</strong>,
+                            <strong>Higher National Diploma (HND)</strong>, and <strong>Bachelor’s Degree (BSc)</strong> programmes.
                             <br><br>
-                            With a strong network of partner institutions, we facilitate admission processing,
-                            program management, and professional development services that bridge the gap between
-                            learning and opportunity.
+                            Our platform simplifies the admission process, supports distance and online learning, and empowers students
+                            to study at their own pace — anytime and anywhere.
                         </p>
 
                         <div class="about-content">
@@ -200,8 +199,8 @@ include  "./inc/header.php";
                                             <img src="assets/img/icon/open-book.svg" alt="">
                                         </div>
                                         <div class="about-item-content">
-                                            <h5>Academic Advisory</h5>
-                                            <p>Guidance for ND, NCE, HND, and BSc admissions and program selection.</p>
+                                            <h5>Flexible Learning</h5>
+                                            <p>Study 100% online or through hybrid modes that fit your lifestyle and schedule.</p>
                                         </div>
                                     </div>
                                     <div class="about-item">
@@ -209,16 +208,15 @@ include  "./inc/header.php";
                                             <img src="assets/img/icon/global-education.svg" alt="">
                                         </div>
                                         <div class="about-item-content">
-                                            <h5>Partnerships & Training</h5>
-                                            <p>Collaborations with accredited institutions for global learning access.</p>
+                                            <h5>Accredited Partners</h5>
+                                            <p>Programs offered in collaboration with trusted and recognized institutions.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-md-5">
                                     <div class="about-quote">
-                                        <p>“We believe in education that transforms — empowering every learner to
-                                            discover their potential and lead with knowledge.”</p>
+                                        <p>“We believe education should be limitless — connecting passion, purpose, and possibilities.”</p>
                                         <i class="far fa-quote-right"></i>
                                     </div>
                                 </div>
@@ -232,7 +230,7 @@ include  "./inc/header.php";
                                 <div class="icon"><i class="fal fa-headset"></i></div>
                                 <div class="number">
                                     <span>Call Now</span>
-                                    <h6><a href="tel:+2348160000000">+234 803 081 8383</a></h6>
+                                    <h6><a href="tel:+2348030818383">+234 803 081 8383</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -242,8 +240,6 @@ include  "./inc/header.php";
         </div>
     </div>
     <!-- about area end -->
-
-
 
     <!-- counter area -->
     <div class="counter-area pt-60 pb-60">
@@ -297,160 +293,6 @@ include  "./inc/header.php";
         </div>
     </div>
     <!-- counter area end -->
-    <!-- department area -->
-    <div class="department-area bg py-120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 mx-auto">
-                    <div class="site-heading text-center">
-                        <span class="site-title-tagline">
-                            <i class="far fa-book-open-reader"></i> Divisions
-                        </span>
-                        <h2 class="site-title">
-                            Explore Our <span>Academic Divisions</span>
-                        </h2>
-                        <p>
-                            Owutech Consult connects learners to partner institutions across diverse academic and professional disciplines.
-                            Explore our major divisions below and find the program that aligns with your passion and career goals.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="department-slider owl-carousel owl-theme">
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/management.svg" alt="Management Sciences">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-management.html">Management Sciences</a></h4>
-                        <p>Programs in Business Administration, Accounting, Marketing, and related fields that prepare future leaders and managers.</p>
-                        <div class="department-btn">
-                            <a href="division-management.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/computer.svg" alt="Computing and Informatics">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-computing.html">Computing and Informatics</a></h4>
-                        <p>Focused on Computer Science, Information Technology, and Data Analytics for the digital economy.</p>
-                        <div class="department-btn">
-                            <a href="division-computing.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/law.svg" alt="Criminology, Security and Peace Studies">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-criminology.html">Criminology, Security and Peace Studies</a></h4>
-                        <p>Training professionals in security management, intelligence studies, and peacekeeping operations.</p>
-                        <div class="department-btn">
-                            <a href="division-criminology.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/startup.svg" alt="Entrepreneurship">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-entrepreneurship.html">Entrepreneurship</a></h4>
-                        <p>Equipping learners with creative thinking and business innovation skills to start and grow enterprises.</p>
-                        <div class="department-btn">
-                            <a href="division-entrepreneurship.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/media.svg" alt="Media, Arts and Communications">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-media.html">Media, Arts and Communications</a></h4>
-                        <p>Covering Journalism, Public Relations, Visual Arts, and Creative Media for a modern audience.</p>
-                        <div class="department-btn">
-                            <a href="division-media.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/engineering.svg" alt="Engineering and Technology">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-engineering.html">Engineering and Technology</a></h4>
-                        <p>Hands-on programs in mechanical, electrical, civil, and emerging engineering technologies.</p>
-                        <div class="department-btn">
-                            <a href="division-engineering.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/environment.svg" alt="Environmental Studies">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-environment.html">Environmental Studies</a></h4>
-                        <p>Promoting sustainability and environmental stewardship through research and practice.</p>
-                        <div class="department-btn">
-                            <a href="division-environment.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/health.svg" alt="Health Science and Technology">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-health.html">Health Science and Technology</a></h4>
-                        <p>Programs designed to prepare professionals for excellence in medical and allied health fields.</p>
-                        <div class="department-btn">
-                            <a href="division-health.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/agriculture.svg" alt="Agriculture and Agribusiness">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-agriculture.html">Agriculture and Agribusiness</a></h4>
-                        <p>Empowering farmers, agronomists, and entrepreneurs to drive food security and innovation.</p>
-                        <div class="department-btn">
-                            <a href="division-agriculture.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="department-item">
-                    <div class="department-icon">
-                        <img src="assets/img/icon/education.svg" alt="Education and Training">
-                    </div>
-                    <div class="department-info">
-                        <h4 class="department-title"><a href="division-education.html">Education and Training</a></h4>
-                        <p>Preparing educators, trainers, and academic leaders for excellence in teaching and learning.</p>
-                        <div class="department-btn">
-                            <a href="division-education.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- department area end -->
 
     <!-- course-area -->
     <div class="course-area py-120">
@@ -458,375 +300,160 @@ include  "./inc/header.php";
             <div class="row">
                 <div class="col-lg-6 mx-auto">
                     <div class="site-heading text-center">
-                        <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Courses</span>
-                        <h2 class="site-title">Let's Check Our <span>Courses</span></h2>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of
-                            a page when looking at its layout.</p>
+                        <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Faculties</span>
+                        <h2 class="site-title">Explore Our <span>Academic Divisions</span></h2>
+                        <p>Owutech Consult offers a diverse range of faculties designed to equip learners with relevant knowledge and practical skills through short certificate courses, ND, HND, and BSc programmes.</p>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Drama</span>
-                            <img src="assets/img/course/01.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Acting And Drama</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".50s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Design</span>
-                            <img src="assets/img/course/02.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Art And Design</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".75s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Science</span>
-                            <img src="assets/img/course/03.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Biology And Conservation</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Science</span>
-                            <img src="assets/img/course/04.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Science And Engineering</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".50s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Health</span>
-                            <img src="assets/img/course/05.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Health Administration</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".75s">
-                        <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Finance</span>
-                            <img src="assets/img/course/06.jpg" alt="">
-                            <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
-                        </div>
-                        <div class="course-content">
-                            <div class="course-meta">
-                                <span class="course-meta-left"><i class="far fa-book"></i> 10 Lessons</span>
-                                <div class="course-rating">
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="fas fa-star"></i>
-                                    <i class="far fa-star"></i>
-                                    <span>(4.0)</span>
-                                </div>
-                            </div>
-                            <h4 class="course-title">
-                                <a href="course-single.html">Accounting And Finance</a>
-                            </h4>
-                            <p class="course-text">
-                                There are many variations of passages orem psum available but the majority have
-                                suffer alteration in some form by injected.
-                            </p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-users"></i>75 Seats</span>
-                                    <span><i class="far fa-clock"></i>04 Years</span>
-                                </div>
-                                <span class="course-price">$750</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- course-area -->
 
-    <!-- course area -->
-    <div class="course-area pt-100 pb-70">
-        <div class="container">
             <div class="row g-4">
-
-                <!-- ATIBA UNIVERSITY - ODL PROGRAMMES -->
-                <div class="col-md-12">
-                    <h3 class="mb-3">Atiba University, Oyo — Open & Distance Learning Programmes</h3>
-                </div>
-
+                <!-- Management Sciences -->
                 <div class="col-md-6 col-lg-4">
                     <div class="course-item wow fadeInUp" data-wow-delay=".25s">
                         <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> B.Sc</span>
-                            <img src="assets/img/course/public-health.jpg" alt="Public Health">
-                            <a href="#" class="btn"><i class="far fa-link"></i></a>
+                            <span class="course-tag"><i class="far fa-briefcase"></i> Management</span>
+                            <img src="assets/img/icon/exchange-idea.svg" alt="Management Sciences">
+                            <a href="courses-management.html" class="btn"><i class="far fa-link"></i></a>
                         </div>
                         <div class="course-content">
-                            <h4 class="course-title"><a href="#">B.Sc Public Health</a></h4>
-                            <p class="course-text">Develop practical skills in disease prevention, health promotion, and epidemiology under Atiba University’s ODL programme.</p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-clock"></i>4 Years</span>
-                                    <span><i class="far fa-laptop"></i>ODL / Full-time</span>
-                                </div>
-                                <span class="course-price">Scholarship Available</span>
-                            </div>
+                            <h4 class="course-title"><a href="courses-management.html">Management Sciences</a></h4>
+                            <p class="course-text">Develop leadership and business acumen with programs in Accounting, Business Administration, Banking, and Public Management.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- Atiba Additional Courses -->
-                <div class="col-md-6 col-lg-4" v-for="course in [
-                'Biochemistry', 'Microbiology', 'Computer Science', 'Physics with Electronics',
-                'English', 'Theatre Arts', 'Accounting', 'Business Administration',
-                'Entrepreneurship', 'Economics', 'Public Administration', 'Sociology',
-                'Psychology', 'Transport Management', 'Educational Management',
-                'Library & Information Science', 'Criminology & Security Studies'
-            ]">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
+                <!-- Computing and Informatics -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".35s">
                         <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> B.Sc</span>
-                            <img src="assets/img/course/default.jpg" alt="">
-                            <a href="#" class="btn"><i class="far fa-link"></i></a>
+                            <span class="course-tag"><i class="far fa-laptop-code"></i> Computing</span>
+                            <img src="assets/img/icon/data.svg" alt="Computing and Informatics">
+                            <a href="courses-computing.html" class="btn"><i class="far fa-link"></i></a>
                         </div>
                         <div class="course-content">
-                            <h4 class="course-title"><a href="#">{{ course }}</a></h4>
-                            <p class="course-text">Study {{ course }} at Atiba University, combining academic depth with flexible study modes — on-campus or open distance learning.</p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-clock"></i>4 Years</span>
-                                    <span><i class="far fa-laptop"></i>ODL / Full-time</span>
-                                </div>
-                                <span class="course-price">Scholarship Available</span>
-                            </div>
+                            <h4 class="course-title"><a href="courses-computing.html">Computing and Informatics</a></h4>
+                            <p class="course-text">Gain industry-ready skills in Software Development, Cybersecurity, Networking, Artificial Intelligence, and Data Science.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- ATIBA — Certificate, Diploma & PGD -->
-                <div class="col-md-12 mt-5">
-                    <h3 class="mb-3">Atiba University, Oyo — Certificate, Diploma & PGD Programmes</h3>
-                </div>
-
-                <div class="col-md-6 col-lg-4" v-for="course in ['Data Science', 'Artificial Intelligence', 'Information Systems', 'Cyber Security']">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
+                <!-- Criminology, Security and Peace Studies -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".45s">
                         <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> Cert/Dip/PGD</span>
-                            <img src="assets/img/course/tech.jpg" alt="">
-                            <a href="#" class="btn"><i class="far fa-link"></i></a>
+                            <span class="course-tag"><i class="far fa-shield-alt"></i> Security</span>
+                            <img src="assets/img/icon/information.svg" alt="Criminology, Security and Peace Studies">
+                            <a href="courses-security.html" class="btn"><i class="far fa-link"></i></a>
                         </div>
                         <div class="course-content">
-                            <h4 class="course-title"><a href="#">{{ course }}</a></h4>
-                            <p class="course-text">Certificate (9 months), Diploma (18 months), and PGD (9 months) available in {{ course }} through Atiba University’s flexible pathways.</p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-clock"></i>9–18 Months</span>
-                                    <span><i class="far fa-laptop"></i>Flexible Mode</span>
-                                </div>
-                                <span class="course-price">Scholarship Available</span>
-                            </div>
+                            <h4 class="course-title"><a href="courses-security.html">Criminology, Security and Peace Studies</a></h4>
+                            <p class="course-text">Learn modern strategies in security management, conflict resolution, and peacebuilding for safer communities.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- WEST MIDLANDS OPEN UNIVERSITY -->
-                <div class="col-md-12 mt-5">
-                    <h3 class="mb-3">West Midlands Open University — 100% Online Programmes</h3>
-                </div>
-
-                <div class="col-md-6 col-lg-4" v-for="course in [
-                'Information Systems', 'Computer Science', 'Data Science', 'Cyber Security',
-                'Finance', 'Public Administration', 'Human Resource Management',
-                'Accounting', 'Business Administration', 'Marketing', 'Educational Management'
-            ]">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
+                <!-- Entrepreneurship -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".55s">
                         <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> B.Sc</span>
-                            <img src="assets/img/course/online.jpg" alt="">
-                            <a href="#" class="btn"><i class="far fa-link"></i></a>
+                            <span class="course-tag"><i class="far fa-lightbulb"></i> Entrepreneurship</span>
+                            <img src="assets/img/icon/money.svg" alt="Entrepreneurship">
+                            <a href="courses-entrepreneurship.html" class="btn"><i class="far fa-link"></i></a>
                         </div>
                         <div class="course-content">
-                            <h4 class="course-title"><a href="#">{{ course }}</a></h4>
-                            <p class="course-text">Earn your B.Sc in {{ course }} 100% online with flexible duration options and up to 50% Founder's scholarship support.</p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-clock"></i>4–8 Semesters</span>
-                                    <span><i class="far fa-laptop"></i>Online / Hybrid</span>
-                                </div>
-                                <span class="course-price">50% Scholarship</span>
-                            </div>
+                            <h4 class="course-title"><a href="courses-entrepreneurship.html">Entrepreneurship</a></h4>
+                            <p class="course-text">Empower your innovative ideas with business strategy, startup management, and sustainable enterprise development training.</p>
                         </div>
                     </div>
                 </div>
 
-                <!-- OWU COLLEGE OF EDUCATION -->
-                <div class="col-md-12 mt-5">
-                    <h3 class="mb-3">OWU College of Education, Wasinmi — NCE & B.Ed. Programmes</h3>
-                </div>
-
-                <div class="col-md-6 col-lg-4" v-for="course in [
-                'General Education', 'Science Education', 'Language Education',
-                'Arts and Social Science Education', 'Vocational Education'
-            ]">
-                    <div class="course-item wow fadeInUp" data-wow-delay=".25s">
+                <!-- Media, Arts and Communications -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".65s">
                         <div class="course-img">
-                            <span class="course-tag"><i class="far fa-bookmark"></i> NCE / B.Ed</span>
-                            <img src="assets/img/course/education.jpg" alt="">
-                            <a href="#" class="btn"><i class="far fa-link"></i></a>
+                            <span class="course-tag"><i class="far fa-photo-video"></i> Media</span>
+                            <img src="assets/img/icon/art.svg" alt="Media, Arts and Communications">
+                            <a href="courses-media.html" class="btn"><i class="far fa-link"></i></a>
                         </div>
                         <div class="course-content">
-                            <h4 class="course-title"><a href="#">{{ course }}</a></h4>
-                            <p class="course-text">Enroll in OWU College’s accredited NCE and Bachelor of Education programmes, available in full-time and part-time modes.</p>
-                            <div class="course-bottom">
-                                <div class="course-bottom-left">
-                                    <span><i class="far fa-clock"></i>3–4 Years</span>
-                                    <span><i class="far fa-laptop"></i>Full-time / Part-time</span>
-                                </div>
-                                <span class="course-price">Scholarship Available</span>
-                            </div>
+                            <h4 class="course-title"><a href="courses-media.html">Media, Arts and Communications</a></h4>
+                            <p class="course-text">Explore creativity in journalism, digital media production, public relations, and visual communications.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Engineering and Technology -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".75s">
+                        <div class="course-img">
+                            <span class="course-tag"><i class="far fa-cogs"></i> Engineering</span>
+                            <img src="assets/img/icon/monitor.svg" alt="Engineering and Technology">
+                            <a href="courses-engineering.html" class="btn"><i class="far fa-link"></i></a>
+                        </div>
+                        <div class="course-content">
+                            <h4 class="course-title"><a href="courses-engineering.html">Engineering and Technology</a></h4>
+                            <p class="course-text">Advance your technical expertise in Electrical, Mechanical, and Civil Engineering, as well as emerging tech innovations.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Environmental Studies -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".85s">
+                        <div class="course-img">
+                            <span class="course-tag"><i class="far fa-leaf"></i> Environment</span>
+                            <img src="assets/img/icon/human.svg" alt="Environmental Studies">
+                            <a href="courses-environment.html" class="btn"><i class="far fa-link"></i></a>
+                        </div>
+                        <div class="course-content">
+                            <h4 class="course-title"><a href="courses-environment.html">Environmental Studies</a></h4>
+                            <p class="course-text">Learn about sustainable development, environmental management, and climate resilience for a greener future.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Health Science and Technology -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay=".95s">
+                        <div class="course-img">
+                            <span class="course-tag"><i class="far fa-heartbeat"></i> Health</span>
+                            <img src="assets/img/icon/health.svg" alt="Health Science and Technology">
+                            <a href="courses-health.html" class="btn"><i class="far fa-link"></i></a>
+                        </div>
+                        <div class="course-content">
+                            <h4 class="course-title"><a href="courses-health.html">Health Science and Technology</a></h4>
+                            <p class="course-text">Study medical technology, public health, and healthcare management with flexible online learning options.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Agriculture and Agribusiness -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay="1.05s">
+                        <div class="course-img">
+                            <span class="course-tag"><i class="far fa-seedling"></i> Agriculture</span>
+                            <img src="assets/img/icon/open-book.svg" alt="Agriculture and Agribusiness">
+                            <a href="courses-agriculture.html" class="btn"><i class="far fa-link"></i></a>
+                        </div>
+                        <div class="course-content">
+                            <h4 class="course-title"><a href="courses-agriculture.html">Agriculture and Agribusiness</a></h4>
+                            <p class="course-text">Combine agricultural science with business skills to promote innovation in modern farming and food systems.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Education and Training -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="course-item wow fadeInUp" data-wow-delay="1.15s">
+                        <div class="course-img">
+                            <span class="course-tag"><i class="far fa-chalkboard-teacher"></i> Education</span>
+                            <img src="assets/img/icon/teacher.svg" alt="Education and Training">
+                            <a href="courses-education.html" class="btn"><i class="far fa-link"></i></a>
+                        </div>
+                        <div class="course-content">
+                            <h4 class="course-title"><a href="courses-education.html">Education and Training</a></h4>
+                            <p class="course-text">Prepare for excellence in teaching, learning innovation, and educational leadership through online study.</p>
                         </div>
                     </div>
                 </div>
@@ -834,98 +461,95 @@ include  "./inc/header.php";
             </div>
         </div>
     </div>
-    <!-- course area end -->
+    <!-- course-area end -->
 
 
-    <!-- enroll area-->
-    <div class="enroll-area pt-80 pb-80">
-        <div class="container">
-            <div class="col-lg-12">
-                <div class="row g-5 align-items-center">
-                    <div class="col-lg-6">
-                        <div class="enroll-left wow fadeInLeft" data-wow-delay=".25s">
-                            <div class="enroll-form">
-                                <div class="enroll-form-header">
-                                    <h3>Start Your Enrollment</h3>
-                                    <p>We are variations of passages the have suffered.</p>
-                                </div>
-                                <form action="#">
-                                    <div class="form-group">
-                                        <input type="text" name="name" class="form-control"
-                                            placeholder="Your Name">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="email" name="email" class="form-control"
-                                            placeholder="Email Address">
-                                    </div>
-                                    <div class="form-group">
-                                        <select class="form-select" name="service">
-                                            <option value="">Choose Course</option>
-                                            <option value="1">Art And Design</option>
-                                            <option value="2">Acting And Drama</option>
-                                            <option value="3">Accounting And Finance</option>
-                                            <option value="4">Biology And Conservation</option>
-                                            <option value="5">Science And Engineering</option>
-                                            <option value="6">Health Administration</option>
-                                        </select>
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea name="message" class="form-control" placeholder="Type Message"
-                                            rows="4"></textarea>
-                                    </div>
-                                    <button class="theme-btn">Enroll Now<i class="fas fa-arrow-right-long"></i></button>
-                                </form>
+   <!-- enroll area-->
+<div class="enroll-area pt-80 pb-80">
+    <div class="container">
+        <div class="col-lg-12">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <div class="enroll-left wow fadeInLeft" data-wow-delay=".25s">
+                        <div class="enroll-form">
+                            <div class="enroll-form-header">
+                                <h3>Start Your Enrollment</h3>
+                                <p>Begin your learning journey today — enroll for a short course, ND, HND or B.Sc. programme at Owutech Consult.</p>
                             </div>
+                            <form action="#">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" placeholder="Your Full Name">
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Email Address">
+                                </div>
+                                <div class="form-group">
+                                    <select class="form-select" name="course">
+                                        <option value="">Choose Faculty</option>
+                                        <option value="Management Sciences">Management Sciences</option>
+                                        <option value="Computing and Informatics">Computing and Informatics</option>
+                                        <option value="Criminology, Security and Peace Studies">Criminology, Security and Peace Studies</option>
+                                        <option value="Entrepreneurship">Entrepreneurship</option>
+                                        <option value="Media, Arts and Communications">Media, Arts and Communications</option>
+                                        <option value="Engineering and Technology">Engineering and Technology</option>
+                                        <option value="Environmental Studies">Environmental Studies</option>
+                                        <option value="Health Science and Technology">Health Science and Technology</option>
+                                        <option value="Agriculture and Agribusiness">Agriculture and Agribusiness</option>
+                                        <option value="Education and Training">Education and Training</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control" placeholder="Tell us about your learning goals" rows="4"></textarea>
+                                </div>
+                                <button class="theme-btn">Enroll Now <i class="fas fa-arrow-right-long"></i></button>
+                            </form>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="enroll-right wow fadeInUp" data-wow-delay=".25s">
-                            <div class="skill-content">
-                                <div class="site-heading mb-3">
-                                    <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Skills</span>
-                                    <h2 class="site-title text-white">
-                                        Explore Your <span>Creativity And Talent</span> With Us
-                                    </h2>
-                                </div>
-                                <p class="text-white">
-                                    There are many variations of passages available but the majority have suffered
-                                    alteration in some form by injected humour randomised words which don't look even
-                                    slightly believable. If you are going to use passage you need sure there anything
-                                    embarrassing first true generator on the Internet.
-                                </p>
-                                <div class="skills-section">
-                                    <div class="progress-box">
-                                        <h5>Our Students <span class="pull-right">85%</span></h5>
-                                        <div class="progress" data-value="85">
-                                            <div class="progress-bar" role="progressbar"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress-box">
-                                        <h5>Our Teachers <span class="pull-right">65%</span></h5>
-                                        <div class="progress" data-value="65">
-                                            <div class="progress-bar" role="progressbar"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress-box">
-                                        <h5>Our Courses <span class="pull-right">75%</span></h5>
-                                        <div class="progress" data-value="75">
-                                            <div class="progress-bar" role="progressbar"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <a href="contact.html" class="theme-btn mt-5">Learn More<i class="fas fa-arrow-right-long"></i></a>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="enroll-right wow fadeInUp" data-wow-delay=".25s">
+                        <div class="skill-content">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Learn With Owutech</span>
+                                <h2 class="site-title text-white">
+                                    Build Your <span>Future Through E-Learning</span>
+                                </h2>
                             </div>
+                            <p class="text-white">
+                                Owutech Consult offers a flexible and innovative e-learning experience designed for today’s learners. 
+                                Study at your pace, from anywhere, and gain the skills, knowledge, and credentials you need to succeed 
+                                in your career and academic journey.
+                            </p>
+                            <div class="skills-section">
+                                <div class="progress-box">
+                                    <h5>Student Satisfaction <span class="pull-right">95%</span></h5>
+                                    <div class="progress" data-value="95">
+                                        <div class="progress-bar" role="progressbar"></div>
+                                    </div>
+                                </div>
+                                <div class="progress-box">
+                                    <h5>Qualified Instructors <span class="pull-right">90%</span></h5>
+                                    <div class="progress" data-value="90">
+                                        <div class="progress-bar" role="progressbar"></div>
+                                    </div>
+                                </div>
+                                <div class="progress-box">
+                                    <h5>Online Accessibility <span class="pull-right">100%</span></h5>
+                                    <div class="progress" data-value="100">
+                                        <div class="progress-bar" role="progressbar"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="contact.html" class="theme-btn mt-5">Learn More <i class="fas fa-arrow-right-long"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- enroll area end -->
-
-
-
-
+</div>
+<!-- enroll area end -->
 
     <!-- faq area -->
     <div class="faq-area py-120">
@@ -1121,97 +745,14 @@ include  "./inc/header.php";
     </div>
     <!-- testimonial area end -->
 
-    <!-- blog area -->
-    <div class="blog-area py-120">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 mx-auto">
-                    <div class="site-heading text-center">
-                        <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Blog</span>
-                        <h2 class="site-title">Latest News & <span>Blog</span></h2>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of
-                            a page when looking at its layout.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                        <div class="blog-item-img">
-                            <img src="assets/img/blog/01.jpg" alt="Thumb">
-                        </div>
-                        <div class="blog-item-info">
-                            <div class="blog-item-meta">
-                                <ul>
-                                    <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="blog-title">
-                                <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                            </h4>
-                            <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
-                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                        <div class="blog-item-img">
-                            <img src="assets/img/blog/02.jpg" alt="Thumb">
-                        </div>
-                        <div class="blog-item-info">
-                            <div class="blog-item-meta">
-                                <ul>
-                                    <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="blog-title">
-                                <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                            </h4>
-                            <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
-                        <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
-                        <div class="blog-item-img">
-                            <img src="assets/img/blog/03.jpg" alt="Thumb">
-                        </div>
-                        <div class="blog-item-info">
-                            <div class="blog-item-meta">
-                                <ul>
-                                    <li><a href="#"><i class="far fa-user-circle"></i> By Alicia Davis</a></li>
-                                    <li><a href="#"><i class="far fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="blog-title">
-                                <a href="blog-single.html">There are many variations passage have suffered available.</a>
-                            </h4>
-                            <a class="theme-btn" href="blog-single.html">Read More<i class="fas fa-arrow-right-long"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- blog area end -->
-
-
     <!-- partner area -->
     <div class="partner-area bg pt-50 pb-50">
         <div class="container">
             <div class="partner-wrapper partner-slider owl-carousel owl-theme">
-                <img src="assets/img/partner/01.png" alt="thumb">
-                <img src="assets/img/partner/02.png" alt="thumb">
-                <img src="assets/img/partner/03.png" alt="thumb">
-                <img src="assets/img/partner/04.png" alt="thumb">
-                <img src="assets/img/partner/01.png" alt="thumb">
-                <img src="assets/img/partner/02.png" alt="thumb">
-                <img src="assets/img/partner/04.png" alt="thumb">
+                <img src="assets/img/partner/atiba.png" alt="thumb">
+                <img src="assets/img/partner/west.jpeg" alt="thumb">
+                <img src="assets/img/partner/atiba.png" alt="thumb">
+                <img src="assets/img/partner/owutech.webp" alt="thumb">
             </div>
         </div>
     </div>

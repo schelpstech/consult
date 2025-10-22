@@ -7,16 +7,16 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="footer-widget-box about-us">
                             <a href="index.php" class="footer-logo">
-                                <img src="assets/img/logo/logo-light.png" alt="OWUTECH Consults Logo">
+                                <img src="assets/img/bg/logo.jpg" alt="OWUTECH Consults Logo">
                             </a>
                             <p class="mb-3">
                                 OWUTECH Consults connects learners with accredited partner institutions across Nigeria and beyond — 
                                 making course discovery, comparison, and application seamless and transparent.
                             </p>
                             <ul class="footer-contact">
-                                <li><a href="tel:+2349030000000"><i class="far fa-phone"></i> +234 903 000 0000</a></li>
-                                <li><i class="far fa-map-marker-alt"></i>1 Rebic Avenue, Sawmill, Ashimolowo Area, Ifo, Ogun State, Nigeria</li>
-                                <li><a href="mailto:info@owutechconsults.com"><i class="far fa-envelope"></i> info@owutechconsults.com</a></li>
+                                <li><a href="tel:+2348030818383"><i class="far fa-phone"></i> +234 803 081 8383</a></li>
+                                <li><i class="far fa-map-marker-alt"></i>KM 1, Ogbere Road, Wasinmi, Ogun State, Nigeria</li>
+                                <li><a href="mailto:info@owutechconsults.com.ng"><i class="far fa-envelope"></i> info@owutechconsults.com.ng</a></li>
                             </ul>
                         </div>
                     </div>
