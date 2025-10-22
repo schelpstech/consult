@@ -232,7 +232,7 @@ include  "./inc/header.php";
                                 <div class="icon"><i class="fal fa-headset"></i></div>
                                 <div class="number">
                                     <span>Call Now</span>
-                                    <h6><a href="tel:+2348160000000">+234 816 000 0000</a></h6>
+                                    <h6><a href="tel:+2348160000000">+234 803 081 8383</a></h6>
                                 </div>
                             </div>
                         </div>
