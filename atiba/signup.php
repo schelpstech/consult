@@ -45,12 +45,9 @@ include 'app/query.php';
 					<!-- Left: ODL Intro -->
 					<div class="col-12 col-lg-6 d-md-flex align-items-center justify-content-center bg-primary bg-opacity-10 vh-lg-100">
 						<div class="p-3 p-lg-5 text-center">
-							<h2 class="fw-bold">Welcome to Atiba University ODL</h2>
-							<p class="mb-0 h6 fw-light">Flexible, Accredited, NUC-Approved Distance Learning</p>
-							<img src="assets/images/flier/odl-flier.jpg" class="mt-4 img-fluid rounded shadow" alt="Atiba ODL Flier">
-							<p class="mt-4">
-								Join thousands of students learning anywhere, anytime. Start your journey today!
-							</p>
+							<p class="mb-0 h6 fw-light"></p>
+							<img src="../assets/img/bg/adv.jpg" class="mt-4 img-fluid rounded shadow" alt="Atiba ODL Flier">
+							
 						</div>
 					</div>
 
@@ -61,11 +58,10 @@ include 'app/query.php';
 
 								<!-- Logo -->
 								<div class="text-center mb-3">
-									<img src="assets/images/logo/atibalogo.png" alt="Atiba University Logo" class="logo-img">
+									<img src="../assets/img/bg/logo.jpg" alt="Atiba University Logo" class="logo-img">
 								</div>
 
-								<h2 class="text-center">Apply Now</h2>
-								<p class="lead mb-4 text-center">Fill in your details to begin your application.</p>
+								<p class="lead mb-4 text-center">Join thousands of students learning anywhere, anytime. Start your journey today!</p>
 								<?php $utility->displayFlash(); ?>
 								<!-- Application Form START -->
 								<form id="applyForm" action="./app/applicant/applicantHandler.php" method="POST" novalidate autocomplete="off">

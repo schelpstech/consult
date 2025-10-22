@@ -44,20 +44,20 @@ if (!isset($pageTitle)) {
     <!-- Header -->
     <header class="header">
         <!-- Top Bar -->
-        <div class="header-top">
+        <div class="header-top" >
             <div class="container">
                 <div class="header-top-wrap">
                     <div class="header-top-left">
-                        <p class="header-top-news">Welcome to OWUTECH Consults – Connecting Learners to Partner Institutions.</p>
+                        <p class="header-top-news" style="color:white;" >Welcome to OWUTECH Consults – Connecting Learners to Partner Institutions.</p>
                     </div>
                     <div class="header-top-right">
                         <div class="header-top-menu">
-                            <a href="#">Login</a>
-                            <a href="#">Students</a>
-                            <a href="#">Help Desk</a>
-                            <a href="#">Alumni</a>
-                            <a href="#">Faculty</a>
-                            <a href="#">Contact</a>
+                            <a href="#" style="color:white;">Login</a>
+                            <a href="#" style="color:white;">Students</a>
+                            <a href="#" style="color:white;">Help Desk</a>
+                            <a href="#" style="color:white;">Alumni</a>
+                            <a href="#" style="color:white;">Faculty</a>
+                            <a href="#" style="color:white;">Contact</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ if (!isset($pageTitle)) {
             <nav class="navbar navbar-expand-lg">
                 <div class="container position-relative">
                     <a class="navbar-brand" href="index.php">
-                        <img src="assets/img/logo/logo.png" alt="OWUTECH Logo">
+                        <img src="assets/img/bg/logo.jpg" alt="OWUTECH Logo">
                     </a>
 
                     <div class="mobile-menu-right">

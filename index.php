@@ -166,7 +166,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <img class="img-2" src="assets/img/bg/thumb-up.jpg" alt="Learning at Owutech">
+                                <img class="img-2" src="assets/img/bg/adv.jpg" alt="Learning at Owutech">
                                 <img class="img-3 mt-4" src="assets/img/bg/thumb-up.jpg" alt="Innovation">
                             </div>
                         </div>
