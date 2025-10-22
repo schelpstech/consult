@@ -90,7 +90,7 @@ if (!isset($pageTitle)) {
 
                         <div class="nav-right">
                             <div class="nav-right-btn mt-2">
-                                <a href="apply.php" class="theme-btn"><span class="fal fa-pencil"></span>Apply Now</a>
+                                <a href="./apply" class="theme-btn"><span class="fal fa-pencil"></span>Apply Now</a>
                             </div>
                         </div>
                     </div>
